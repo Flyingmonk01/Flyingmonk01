@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sameer rai</h1>
+<h1 align="center">Hi 👋, I'm Sameer </h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
 
