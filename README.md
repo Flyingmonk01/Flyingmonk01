@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithms. Web Development**
 
-- 👨‍💻 All of my projects are available at [https://react-portfolio-omega-indol.vercel.app/](https://react-portfolio-omega-indol.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://react-portfolio-omega-indol.vercel.app/](https://portfolio-two-orcin-59.vercel.app/)
 
 - 📫 How to reach me **sameerrai350@gmail.com**
 
