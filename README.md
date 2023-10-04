@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sameerrai350@gmail.com**
 
-- 📄 Know about my experiences RESUME](https://www.linkedin.com/in/raisameer/overlay/1635538813381/single-media-viewer/?profileId=ACoAAD3NVXQBNM_8FeBq_SwFJuKJUaonrFUiPtc)
+- 📄 Know about my experiences]<a href="https://www.linkedin.com/in/raisameer/overlay/1635538813381/single-media-viewer/?profileId=ACoAAD3NVXQBNM_8FeBq_SwFJuKJUaonrFUiPtc">EXPERIENCE</a>
 
 - ⚡ Fun fact **I pretend to be Funny.**
 
