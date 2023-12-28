@@ -23,13 +23,20 @@
 <a href="https://www.leetcode.com/flying_monk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="flying_monk" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/flying_monk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="flying_monk" height="30" width="40" /></a>
 </p>
+<hr/>
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+  <h2>Full Stack Developer</h2>
+  <img class="stack-icon" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <img class="stack-icon" style="width: 35px; height: 35px;" src="https://tse1.mm.bing.net/th?id=OIP.S61fB84442UBmmr-PbSY6QHaIj&pid=Api" alt="Node.js" />
+  <img class="stack-icon" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" />
+  <img class="stack-icon" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img class="stack-icon" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
+</div>
 
+<hr/>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flyingmonk01&show_icons=true&locale=en&layout=compact" alt="flyingmonk01" /></p>
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flyingmonk01&show_icons=true&locale=en" alt="flyingmonk01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flyingmonk01&" alt="flyingmonk01" /></p>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start;">
+  <p style="flex: 1; margin: 10px;"><img align="left" style='height: 200px; margin-top: 50px' src="https://github-readme-stats.vercel.app/api/top-langs?username=flyingmonk01&show_icons=true&locale=en&layout=compact" alt="flyingmonk01" /></p>
+<!--   <p style="flex: 1; margin: 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flyingmonk01&show_icons=true&locale=en" alt="flyingmonk01" /></p> -->
+  <p style="flex: 1; margin: 10px;"><img align="center" style='height: 200px; margin-top: 50px' src="https://github-readme-streak-stats.herokuapp.com/?user=flyingmonk01&" alt="flyingmonk01" /></p>
+</div>
