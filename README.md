@@ -36,7 +36,7 @@
 <hr/>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start;">
-  <p style="flex: 1; margin: 10px;"><img align="left" style='height: 200px; margin-top: 50px' src="https://github-readme-stats.vercel.app/api/top-langs?username=flyingmonk01&show_icons=true&locale=en&layout=compact" alt="flyingmonk01" /></p>
+  <p style="flex: 1; margin: 10px;"><img align="left" style='height: 200px; width:250px; margin-top: 50px' src="https://github-readme-stats.vercel.app/api/top-langs?username=flyingmonk01&show_icons=true&locale=en&layout=compact" alt="flyingmonk01" /></p>
 <!--   <p style="flex: 1; margin: 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flyingmonk01&show_icons=true&locale=en" alt="flyingmonk01" /></p> -->
-  <p style="flex: 1; margin: 10px;"><img align="center" style='height: 200px; margin-top: 50px' src="https://github-readme-streak-stats.herokuapp.com/?user=flyingmonk01&" alt="flyingmonk01" /></p>
+  <p style="flex: 1; margin: 10px;"><img align="center" style='height: 200px; width:300px; margin-top: 50px' src="https://github-readme-streak-stats.herokuapp.com/?user=flyingmonk01&" alt="flyingmonk01" /></p>
 </div>
