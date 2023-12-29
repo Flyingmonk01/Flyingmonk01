@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flyingmonk01&label=Profile%20views&color=0e75b6&style=flat" alt="flyingmonk01" /> </p>
 
-- 🔭 I’m currently working on **CADEMY Full Stack App**
+- 🔭 I’m currently working on **NEXT JS**
 
 - 🌱 I’m currently learning **Data Structure and Algorithms. Web Development**
 
-- 👨‍💻 All of my projects are available at [https://react-portfolio-omega-indol.vercel.app/](https://portfolio-two-orcin-59.vercel.app/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://portfolio-two-orcin-59.vercel.app/)
 
 - 📫 How to reach me **sameerrai350@gmail.com**
 
@@ -36,7 +36,7 @@
 <hr/>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start;">
-  <p style="flex: 1; margin: 10px;"><img align="left" style='height: 200px; width:250px; margin-top: 50px' src="https://github-readme-stats.vercel.app/api/top-langs?username=flyingmonk01&show_icons=true&locale=en&layout=compact" alt="flyingmonk01" /></p>
+  <img align="left" style='height: 200px; width:250px; margin-top: 50px' src="https://github-readme-stats.vercel.app/api/top-langs?username=flyingmonk01&show_icons=true&locale=en&layout=compact" alt="flyingmonk01" />
 <!--   <p style="flex: 1; margin: 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flyingmonk01&show_icons=true&locale=en" alt="flyingmonk01" /></p> -->
-  <p style="flex: 1; margin: 10px;"><img align="center" style='height: 200px; width:350px; margin-top: 50px' src="https://github-readme-streak-stats.herokuapp.com/?user=flyingmonk01&" alt="flyingmonk01" /></p>
+ <img align="center" style='height: 200px; width:350px; margin-top: 50px margin-left: 100px' src="https://github-readme-streak-stats.herokuapp.com/?user=flyingmonk01&" alt="flyingmonk01" />
 </div>
