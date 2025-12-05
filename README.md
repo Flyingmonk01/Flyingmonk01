@@ -34,16 +34,16 @@
 const sameer = {
   name: "Sameer Rai",
   location: "Gurugram, India 🇮🇳",
-  role: "Mobile App Developer",
+  role: "Software Engineer",
   company: "91Astrology",
-  focus: ["React Native", "Expo", "VoIP", "Real-time Systems"],
-  learning: ["System Design", "DSA", "Distributed Systems"],
-  challenge: "Building seamless mobile experiences",
+  focus: ["React Native", "Expo", "NestJS", "Real-time Systems"],
+  learning: ["System Design", "App-Dev", "Distributed Systems"],
+  challenge: "Building seamless experiences",
   quote: "Skills compound. Momentum wins.",
   
   currentProjects: {
     main: "91Astrology - Astrology consultation app",
-    tech: ["React Native", "Expo 53", "CallKeep", "WebSockets"]
+    "Founding Engineer at 91Astrology."
   },
   
   recentAchievements: [
