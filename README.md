@@ -113,30 +113,6 @@ const sameer = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"> 
 
-<!-- Trophies -->
-<!-- <h2 align="center">🏆 GitHub Achievements</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Flyingmonk01&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Trophies"/>
-</div>
-<!-- Animated Divider -->
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"> --> -->
-
-<!-- Featured Projects -->
-<!-- <h2 align="center">🚀 Featured Projects</h2>
-<div align="center">
-<a href="https://github.com/Flyingmonk01/91Astrology">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Flyingmonk01&repo=91Astrology&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&description_lines_count=3" alt="Project 1"/>
-</a>
-<a href="https://github.com/Flyingmonk01">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Flyingmonk01&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&description_lines_count=3" alt="Project 2" onerror="this.style.display='none'"/>
-</a>
-<br/><br/>
-<a href="https://github.com/Flyingmonk01?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All"/>
-</a>
-</div> -->
-<!-- Animated Divider -->
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"> -->
 
 <!-- Competitive Programming -->
 <h2 align="center">💻 Competitive Programming</h2>
