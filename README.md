@@ -162,14 +162,17 @@ const sameer = {
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Portfolio"/>
 </a>
 <br/><br/>
-📬 Open For
-typescriptconst opportunities = {
+
+📬 Open For typescriptconst 
+  ```javascript
+const opportunities = {
   freelance: true,
   collaboration: true,
   openSource: true,
   consulting: "Mobile Architecture & React Native",
   interests: ["Startup ideas", "Technical discussions", "Code reviews"]
 };
+  ```
 </div>
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
