@@ -114,12 +114,12 @@ const sameer = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"> 
 
 <!-- Trophies -->
-<h2 align="center">🏆 GitHub Achievements</h2>
+<!-- <h2 align="center">🏆 GitHub Achievements</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Flyingmonk01&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Trophies"/>
 </div>
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"> --> -->
 
 <!-- Featured Projects -->
 <!-- <h2 align="center">🚀 Featured Projects</h2>
